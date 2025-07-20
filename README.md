@@ -1,4 +1,4 @@
-#👋 Hi, I'm Sinchana B!
+👋 Hi, I'm Sinchana B!
 
 Welcome to my GitHub profile! I'm a passionate and curious learner who loves building real-world projects and exploring the world of technology.
 
